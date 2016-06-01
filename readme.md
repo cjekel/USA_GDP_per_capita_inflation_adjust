@@ -5,4 +5,7 @@ The methods for determining CPI have often been crticized. Some believe CPI [ove
 
 View the results in the [/images](https://github.com/cjekel/USA_GDP_per_capita_inflation_adjust/tree/master/images) directory.
 
-Blog post comming soon.
+1960 - 2014 USA GDP per capita and GNI per capita adjusted for inflation
+![1960 - 2014 USA GDP per capita and GNI per capita adjusted for inflation](https://raw.githubusercontent.com/cjekel/USA_GDP_per_capita_inflation_adjust/master/images/usaGDPandGNI_perCapita_2014.png)
+
+Check out the [blog post](http://jekel.me/2016/USA-GDP-and-GNI-per-capita-adjusted-for-inflation/)!
